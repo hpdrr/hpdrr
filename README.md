@@ -4,7 +4,7 @@
 
 ![Date](https://github.com/hpdrr/hpdrr/assets/67416357/352bc934-abc7-4b12-b9c2-4f02b343136e)
 ---
-Hi, My name is **Hapid Ramdani**. I'm an entry level Backend Developer, currently focused on Cloud Computing. 
+Hi, My name is **Hapid Ramdani**. I'm an entry level Backend Developer, currently focused on Cloud Computing
 
 Entry level cloud engineer
 
