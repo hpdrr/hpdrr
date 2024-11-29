@@ -12,4 +12,4 @@ Entry level cloud engineer at GCP.
 
 <!--![](https://komarev.com/ghpvc/?username=hpdrr&color=112240)-->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hpdrr&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hpdrr&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0)](https://git.io/streak-stats)
