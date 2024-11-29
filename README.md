@@ -4,7 +4,7 @@
 
 Hi, My name is **Hapid Ramdani**. I'm an entry level Backend Developer, currently focused on Cloud Computing.
 
-Entry level cloud engineer at GCP.
+Entry level cloud engineer.
 
 ## **Tools:**
 
