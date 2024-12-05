@@ -11,11 +11,11 @@ Entry level cloud engineer.
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/256px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/256px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/256px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/64px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/64px-Git_icon.svg.png" alt="Git" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png" alt="Python" height="40"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/64px-Octicons-mark-github.svg.png" alt="Github" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="NodeJs" height="40">
 
 <!--![](https://komarev.com/ghpvc/?username=hpdrr&color=112240)-->
-###Stats
+### Stats
 <p align="left">
   <a href="https://github.com/hpdrr">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hpdrr&show_icons=true&theme=algolia&title_color=F97316&text_color=CCD6F6&bg_color=112240&hide_border=true&include_all_commits=true&count_private=true"/>
-    
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hpdrr&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0)](https://git.io/streak-stats)
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=hpdrr&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0)](https://git.io/streak-stats">
+<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hpdrr&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0)](https://git.io/streak-stats) -->
   </a>
 </p>
