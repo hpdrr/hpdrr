@@ -1,6 +1,6 @@
 ## Hello Friends!
 
-## ![Date](https://github.com/hpdrr/hpdrr/assets/67416357/352bc934-abc7-4b12-b9c2-4f02b343136e)
+## ![Date](https://github.com/user-attachments/assets/ef11714b-95ed-4504-ba31-3d3df61054d7)
 
 Hi, My name is **Hapid Ramdani**. I'm an entry level Backend Developer, currently focused on Cloud Computing.
 
