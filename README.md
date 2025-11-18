@@ -2,9 +2,7 @@
 
 ## ![Date](https://github.com/user-attachments/assets/ef11714b-95ed-4504-ba31-3d3df61054d7)
 
-Hi, My name is **Hapid Ramdani**. I'm an entry level Backend Developer, currently focused on Cloud Computing.
-
-Entry level cloud engineer
+Just a guy with entry level Backend Developer and currently focused on Cloud Computing.
 
 ## **Tools:**
 
