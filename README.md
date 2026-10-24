@@ -2,7 +2,7 @@
 
 ## ![Date](https://github.com/user-attachments/assets/ef11714b-95ed-4504-ba31-3d3df61054d7)
 
-### A Full-Stack Developer who trying to jump into Quality Assurance
+### A Full-Stack Developer who trying to jump into Automation
 <!--![](https://komarev.com/ghpvc/?username=hpdrr&color=112240)-->
 ### Stats
 <p align="left">
