@@ -16,8 +16,8 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hpdrr" alt="hpdrr" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at **[https://hapidramdani.dev](https://hapidramdani.dev)**
+![Followers](https://img.shields.io/github/followers/hpdrr.svg?style=social&label=Follow&maxAge=2592000)
 
-- 📄 Know about my experiences **[https://www.hapidramdani.dev/Hapid_Ramdani_CV.pdf](https://www.hapidramdani.dev/Hapid_Ramdani_CV.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
