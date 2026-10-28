@@ -1,5 +1,7 @@
 ## Hello Friends!
 
+![Followers](https://img.shields.io/github/followers/hpdrr.svg?style=social&label=Follow&maxAge=2592000)
+
 ## ![Date](https://github.com/user-attachments/assets/ef11714b-95ed-4504-ba31-3d3df61054d7)
 
 ### A Full-Stack Developer who trying to jump into Automation
@@ -16,7 +18,6 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hpdrr" alt="hpdrr" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at **[https://hapidramdani.dev](https://hapidramdani.dev)**
-![Followers](https://img.shields.io/github/followers/hpdrr.svg?style=social&label=Follow&maxAge=2592000)
 
 
 <h3 align="left">Connect with me:</h3>
