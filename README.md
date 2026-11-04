@@ -17,7 +17,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hpdrr" alt="hpdrr" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at **[https://hapidramdani.dev](https://hapidramdani.dev)**
+👨‍💻 All of my projects are available at **[https://hapidramdani.dev](https://hapidramdani.dev)**
 
 
 <h3 align="left">Connect with me:</h3>
