@@ -6,12 +6,6 @@
 
 ### A Full-Stack Developer who trying to jump into Automation
 <!--![](https://komarev.com/ghpvc/?username=hpdrr&color=112240)-->
-### Stats
-<p align="left">
-  <a href="https://github.com/hpdrr">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hpdrr&show_icons=true&theme=algolia&title_color=F97316&text_color=CCD6F6&bg_color=112240&hide_border=true&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpdrr&label=Profile views&color=0e75b6&style=flat" alt="hpdrr" /> </p> -->
 
